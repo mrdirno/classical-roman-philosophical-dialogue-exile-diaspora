@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The dust of the Appian Way was not the fine, golden powder of a poet’s simile. It was a grey, clinging grit, born of a million footsteps and cartwheels, and it coated the tongue, the teeth, the folds of the tunic. It rose in lazy, insolent plumes behind the slow-turning wheels of the ox-cart that carried my library. I walked beside it, my sandals scuffing the stones of the great road, my eyes fixed on the diminishing silhouette of the city’s walls. Rome was a smudge of ochre and smoke against a hard blue sky. With each step, it grew smaller.
@@ -106,6 +108,8 @@ The darkness was absolute. I listened to Demetrius’s steady breathing, to the 
 
 The soldier’s words echoed. *Out in the weather.* I closed my eyes, not to sleep, but to begin the first true work of exile: the recalibration of the soul. The roof was gone. The storm was here. And I had only my own mind for shelter. It would have to be enough. It was, I realised with a cold, clear certainty, all I had ever truly owned.
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The Bay of Neapolis is a sickle of brilliant blue, a curve of such serene beauty it seems to mock human turmoil. We saw it from the high pass, the city a white spill of marble and stucco against the green slopes of Vesuvius. The air changed, losing the dry, inland dust, gaining the salt-tang of the sea. It should have felt like an arrival, a destination. It felt instead like a deeper dislocation. Rome was grim, purposeful, a city of granite and law. This was a city of leisure, of perfumed gardens and echoing villas where retired power came to soften and forget. I was not retiring. I was receding.
@@ -211,6 +215,8 @@ I spent the remainder of the day with Demetrius, arranging the library into a se
 That evening, I walked down to the shore. The tide was out, leaving a dark, wet expanse of sand littered with shells and seaweed. The water was a sheet of hammered silver under the rising moon. I thought of Cicero, exiled in Thessalonica, writing desperate, brilliant letters. He had viewed exile as a living death. I had always considered that a failure of philosophy. Now, standing on this foreign beach, the vast, indifferent sea before me, I understood his despair. Philosophy is a fire built to warm the hands. Exile is a wind that blows it out, leaving only the cold stars for company.
 
 I picked up a shell, a small, whorled thing, empty. I carried my *polis* within me, I had written. But what was a *polis* but a shared story, a collective agreement on what matters? Alone, the story becomes a soliloquy, and then a whisper, and then silence. Marcus’s questions had been a lifeline, a thread thrown from the shore. Gaius’s gathering was another. I would grasp them. I would talk. I would listen. I would be the man in the storm, trying, against the wind’s roar, to chart its shape. It was all I could do. It was, I realised, the work.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
